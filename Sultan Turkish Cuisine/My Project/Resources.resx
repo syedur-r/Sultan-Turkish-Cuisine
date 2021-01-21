@@ -1,0 +1,709 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnWelcomeSignUpRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnWelcomeSignUpRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnWelcomeLoginRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnWelcomeLoginRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnWelcomeSignUpMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnWelcomeSignUpMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnRegisterRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnRegisterRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmousedown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmousedown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnWelcomeLoginMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnWelcomeLoginMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FrmbtnSignUpPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrmbtnSignUpPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnRegisterPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnRegisterPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonrollover3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonrollover3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FrmbtnLoginPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrmbtnLoginPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnRegisterMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnRegisterMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FrmbtnSignUpMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrmbtnSignUpMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WelcomeLogInPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WelcomeLogInPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WelcomeSignUpPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WelcomeSignUpPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MixShishAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MixShishAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MixShishAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MixShishAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MixShishRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MixShishRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MixShishRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MixShishRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChickenIskenderAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChickenIskenderAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChickenIskenderAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChickenIskenderAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChickenIskenderRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChickenIskenderRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChickenIskenderRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChickenIskenderRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChocolateCheesecakeAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChocolateCheesecakeAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChocolateCheesecakeAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChocolateCheesecakeAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChocolateCheesecakeRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChocolateCheesecakeRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChocolateCheesecakeRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChocolateCheesecakeRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LambChopsAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LambChopsAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LambChopsAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LambChopsAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LambChopsRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LambChopsRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LambChopsRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LambChopsRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryMojitoAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryMocktailAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryMojitoAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryMocktailAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryMojitoRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryMocktailRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryMojitoRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryMocktailRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishCoffeeAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishCoffeeAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishCoffeeAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishCoffeeAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishCoffeeRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishCoffeeRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishCoffeeRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishCoffeeRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishTeaAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishTeaAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishTeaAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishTeaAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishTeaRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishTeaRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishTeaRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishTeaRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryCheesecakeAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryCheesecakeAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryCheesecakeAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryCheesecakeAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryCheesecakeRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryCheesecakeRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrawberryCheesecakeRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StrawberryCheesecakeRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishDelightAddBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishDelightAddBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishDelightAddBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishDelightAddBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishDelightRemoveBtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishDelightRemoveBtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurkishDelightRemoveBtnRollover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurkishDelightRemoveBtnRollover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnCheckoutMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnCheckoutMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnCheckoutPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnCheckoutPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnCheckoutRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnCheckoutRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearAllMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearAllMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearAllPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearAllPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearAllRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearAllRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnExitMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnExitMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnExitPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnExitPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnExitRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnExitRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnLogOutMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnLogOutMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnLogOutPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnLogOutPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnLogOutRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnLogOutRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn0MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn0MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn0PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn0PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn0RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn0RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn10PoundMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn10PoundMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn10PoundPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn10PoundPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn10PoundRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn10PoundRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn1MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn1MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn1PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn1PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn1RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn1RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn2MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn2MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn2PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn2PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn2RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn2RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn30PoundMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn30PoundMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn30PoundPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn30PoundPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn30PoundRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn30PoundRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn3MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn3MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn3PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn3PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn3RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn3RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn4MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn4MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn4PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn4PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn4RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn4RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn50PoundMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn50PoundMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn50PoundPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn50PoundPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn50PoundRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn50PoundRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn5MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn5MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn5PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn5PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn5RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn5RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn6MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn6MouseDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn6PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn6PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn6RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn6RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn7MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn7MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn7PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn7PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn7RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn7RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn8MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn8MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn8PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn8PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn8RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn8RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn9MouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn9MouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn9PNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn9PNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn9RolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn9RolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnBackSpaceMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnBackSpaceMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnBackSpacePNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnBackSpacePNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnBackSpaceRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnBackSpaceRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnClearRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnClearRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnDotMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnDotMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnDotPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnDotPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnDotRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnDotRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnPayMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnPayMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnPayPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnPayPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnPayRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnPayRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnINeedHelpMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnINeedHelpMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnINeedHelpPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnINeedHelpPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnINeedHelpRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnINeedHelpRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrderFormbtnOrdersPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OrderFormbtnOrdersPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ReceiptLogoPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ReceiptLogoPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SultanIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\sultanicon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExitPanelPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ExitPanelPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpFormbtnINeedHelpPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpFormbtnINeedHelpPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpFormbtnOrdersMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpFormbtnOrdersMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpFormbtnOrdersPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpFormbtnOrdersPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpFormbtnOrdersRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpFormbtnOrdersRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MenuButtonCreamPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MenuButtonCreamPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SlidingPanelPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SlidingPanelPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnHelpPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnHelpPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FAQbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FAQbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FAQClickedbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FAQClickedbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FAQContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FAQContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FAQMouseDownbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FAQMouseDownbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FAQRolloverbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FAQRolloverbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpClickedbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpClickedbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpMouseDownbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpMouseDownbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HelpRolloverbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HelpRolloverbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TroubleshootingbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TroubleshootingbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TroubleshootingClickedbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TroubleshootingClickedbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TroubleshootingContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TroubleshootingContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TroubleshootingMouseDownbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TroubleshootingMouseDownbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TroubleshootingRolloverbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TroubleshootingRolloverbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIClearAnOrderMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIClearAnOrderMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIClearAnOrderPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIClearAnOrderPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIClearAnOrderRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIClearAnOrderRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoICreateAnOrderMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoICreateAnOrderMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoICreateAnOrderPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoICreateAnOrderPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoICreateAnOrderRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoICreateAnOrderRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIExitTheApplicationMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIExitTheApplicationMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIExitTheApplicationPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIExitTheApplicationPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIExitTheApplicationRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIExitTheApplicationRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILoginMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILoginMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILoginPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILoginPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILoginRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILoginRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILogoutMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILogoutMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILogoutPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILogoutPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILogoutRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILogoutRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPayForAnOrderMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPayForAnOrderMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPayForAnOrderPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPayForAnOrderPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPayForAnOrderRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPayForAnOrderRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPrintTheReceiptMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPrintTheReceiptMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPrintTheReceiptPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPrintTheReceiptPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPrintTheReceiptRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPrintTheReceiptRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRegisterMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRegisterMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRegisterPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRegisterPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRegisterRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRegisterRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRemoveAnItemMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRemoveAnItemMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRemoveAnItemPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRemoveAnItemPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRemoveAnItemRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRemoveAnItemRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIViewTheReceiptMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIViewTheReceiptMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIViewTheReceiptPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIViewTheReceiptPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIViewTheReceiptRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIViewTheReceiptRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIClearAnOrderContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIClearAnOrderContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoICreateAnOrderContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoICreateAnOrderContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIExitTheApplicationContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIExitTheApplicationContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILogOutContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILogOutContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPayForAnOrderContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPayForAnOrderContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIPrintTheReceiptContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIPrintTheReceiptContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIViewTheReceiptContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIViewTheReceiptContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoILoginContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoILoginContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuccessDialogueBoxOKbtnMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SuccessDialogueBoxOKbtnMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuccessDialogueBoxOKbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SuccessDialogueBoxOKbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SuccessDialogueBoxOKbtnRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SuccessDialogueBoxOKbtnRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlertDialogueOKbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AlertDialogueOKbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlertDialogueOKbtnRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AlertDialogueOKbtnRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorDialogueOKbtnMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ErrorDialogueOKbtnMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorDialogueOKbtnPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ErrorDialogueOKbtnPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorDialogueOKbtnRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ErrorDialogueOKbtnRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlertDialogueOKbtnMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AlertDialogueOKbtnMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnNoMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnNoMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnNoPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnNoPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnNoRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnNoRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnYesMouseDownPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnYesMouseDownPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnYesPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnYesPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConfirmLogOutbtnYesRolloverPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConfirmLogOutbtnYesRolloverPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRemoveAnItemContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRemoveAnItemContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowDoIRegisterContentPNG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HowDoIRegisterContentPNG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

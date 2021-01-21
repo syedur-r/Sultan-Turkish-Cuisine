@@ -1,0 +1,1006 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sultan Turkish Cuisine
+</name>
+</assembly>
+<members>
+<member name="T:Sultan_Turkish_Cuisine.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.AlertDialogueOKbtnMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.AlertDialogueOKbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.AlertDialogueOKbtnRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn0MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn0PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn0RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn10PoundMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn10PoundPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn10PoundRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn1MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn1PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn1RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn2MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn2PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn2RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn30PoundMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn30PoundPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn30PoundRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn3MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn3PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn3RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn4MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn4PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn4RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn50PoundMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn50PoundPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn50PoundRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn5MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn5PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn5RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn6MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn6PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn6RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn7MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn7PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn7RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn8MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn8PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn8RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn9MouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn9PNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btn9RolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnBackSpaceMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnBackSpacePNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnBackSpaceRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnCheckoutMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnCheckoutPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnCheckoutRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearAllMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearAllPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearAllRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnClearRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnDotMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnDotPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnDotRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnExitMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnExitPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnExitRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnHelpPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnINeedHelpMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnINeedHelpPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnINeedHelpRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnLogOutMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnLogOutPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnLogOutRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnPayMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnPayPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnPayRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnRegisterMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnRegisterPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnRegisterRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnWelcomeLoginMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnWelcomeLoginRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnWelcomeSignUpMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.btnWelcomeSignUpRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.buttonmousedown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.buttonrollover3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChickenIskenderAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChickenIskenderAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChickenIskenderRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChickenIskenderRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChocolateCheesecakeAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChocolateCheesecakeAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChocolateCheesecakeRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ChocolateCheesecakeRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnNoMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnNoPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnNoRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnYesMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnYesPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ConfirmLogOutbtnYesRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ErrorDialogueOKbtnMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ErrorDialogueOKbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ErrorDialogueOKbtnRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ExitPanelPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FAQbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FAQClickedbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FAQContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FAQMouseDownbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FAQRolloverbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FrmbtnLoginPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FrmbtnSignUpMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.FrmbtnSignUpPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpClickedbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpFormbtnINeedHelpPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpFormbtnOrdersMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpFormbtnOrdersPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpFormbtnOrdersRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpMouseDownbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HelpRolloverbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIClearAnOrderContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIClearAnOrderMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIClearAnOrderPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIClearAnOrderRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoICreateAnOrderContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoICreateAnOrderMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoICreateAnOrderPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoICreateAnOrderRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIExitTheApplicationContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIExitTheApplicationMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIExitTheApplicationPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIExitTheApplicationRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILoginContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILoginMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILoginPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILoginRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILogOutContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILogoutMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILogoutPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoILogoutRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPayForAnOrderContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPayForAnOrderMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPayForAnOrderPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPayForAnOrderRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPrintTheReceiptContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPrintTheReceiptMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPrintTheReceiptPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIPrintTheReceiptRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRegisterContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRegisterMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRegisterPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRegisterRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRemoveAnItemContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRemoveAnItemMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRemoveAnItemPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIRemoveAnItemRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIViewTheReceiptContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIViewTheReceiptMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIViewTheReceiptPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.HowDoIViewTheReceiptRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.LambChopsAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.LambChopsAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.LambChopsRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.LambChopsRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.MenuButtonCreamPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.MixShishAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.MixShishAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.MixShishRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.MixShishRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.OrderFormbtnOrdersPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.ReceiptLogoPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.SlidingPanelPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryCheesecakeAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryCheesecakeAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryCheesecakeRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryCheesecakeRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryMojitoAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryMojitoAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryMojitoRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.StrawberryMojitoRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.SuccessDialogueBoxOKbtnMouseDownPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.SuccessDialogueBoxOKbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.SuccessDialogueBoxOKbtnRolloverPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.SultanIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TroubleshootingbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TroubleshootingClickedbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TroubleshootingContentPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TroubleshootingMouseDownbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TroubleshootingRolloverbtnPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishCoffeeAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishCoffeeAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishCoffeeRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishCoffeeRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishDelightAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishDelightAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishDelightRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishDelightRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishTeaAddBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishTeaAddBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishTeaRemoveBtn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.TurkishTeaRemoveBtnRollover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.WelcomeLogInPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sultan_Turkish_Cuisine.My.Resources.Resources.WelcomeSignUpPNG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

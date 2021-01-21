@@ -1,0 +1,215 @@
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Official E Drive)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine (Final E)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueCorrectPayment.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueRegister.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueCheckout.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueLogin.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueOrder.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialoguePay.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueCorrectPayment.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueCheckout.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueOrder.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialoguePay.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueLogin.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueRegister.resources
+G:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmConfirmDialogueLogOut.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmConfirmDialogueLogOut.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueLogin.resources
+E:\Programming projects (vb.net)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueRegister.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueCorrectPayment.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueRegister.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmConfirmDialogueLogOut.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueCheckout.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueLogin.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueOrder.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialoguePay.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueLogin.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueRegister.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+G:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueCorrectPayment.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueRegister.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmConfirmDialogueLogOut.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueCheckout.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueLogin.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueOrder.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialoguePay.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueLogin.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueRegister.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+E:\Programming projects (vb)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe.config
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.exe
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.xml
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.pdb
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.exe
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.pdb
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\bin\Debug\Sultan Turkish Cuisine.xml
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbprojResolveAssemblyReference.cache
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueCorrectPayment.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmAlertDialogueRegister.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmConfirmDialogueLogOut.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueCheckout.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueLogin.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialogueOrder.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmErrorDialoguePay.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmHelp.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmLogin.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmOrder.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmPrint.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmRegister.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSplash.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueLogin.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmSuccessDialogueRegister.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.FrmWelcome.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan_Turkish_Cuisine.Resources.resources
+F:\Programming projects (vb)\Sultan Turkish Cuisine (D)\Sultan Turkish Cuisine\Sultan Turkish Cuisine\obj\Debug\Sultan Turkish Cuisine.vbproj.GenerateResource.Cache

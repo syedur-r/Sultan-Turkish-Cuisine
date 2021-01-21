@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09FAE763-9CCE-4368-93C4-D00C09D5985A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sultan_Turkish_Cuisine.My.MyApplication</StartupObject>
+    <RootNamespace>Sultan_Turkish_Cuisine</RootNamespace>
+    <AssemblyName>Sultan Turkish Cuisine</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sultan Turkish Cuisine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sultan Turkish Cuisine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>SultanIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAlertDialogueCorrectPayment.Designer.vb">
+      <DependentUpon>FrmAlertDialogueCorrectPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlertDialogueCorrectPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlertDialogueRegister.Designer.vb">
+      <DependentUpon>FrmAlertDialogueRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlertDialogueRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfirmDialogueLogOut.Designer.vb">
+      <DependentUpon>FrmConfirmDialogueLogOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfirmDialogueLogOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmErrorDialogueCheckout.Designer.vb">
+      <DependentUpon>FrmErrorDialogueCheckout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmErrorDialogueCheckout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmErrorDialogueLogin.Designer.vb">
+      <DependentUpon>FrmErrorDialogueLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmErrorDialogueLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmErrorDialogueOrder.Designer.vb">
+      <DependentUpon>FrmErrorDialogueOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmErrorDialogueOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmErrorDialoguePay.Designer.vb">
+      <DependentUpon>FrmErrorDialoguePay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmErrorDialoguePay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHelp.Designer.vb">
+      <DependentUpon>FrmHelp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHelp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrder.Designer.vb">
+      <DependentUpon>FrmOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrint.Designer.vb">
+      <DependentUpon>FrmPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegister.Designer.vb">
+      <DependentUpon>FrmRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplash.Designer.vb">
+      <DependentUpon>FrmSplash.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSuccessDialogueLogin.Designer.vb">
+      <DependentUpon>FrmSuccessDialogueLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSuccessDialogueLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSuccessDialogueRegister.Designer.vb">
+      <DependentUpon>FrmSuccessDialogueRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSuccessDialogueRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWelcome.Designer.vb">
+      <DependentUpon>FrmWelcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWelcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmAlertDialogueCorrectPayment.resx">
+      <DependentUpon>FrmAlertDialogueCorrectPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlertDialogueRegister.resx">
+      <DependentUpon>FrmAlertDialogueRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfirmDialogueLogOut.resx">
+      <DependentUpon>FrmConfirmDialogueLogOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmErrorDialogueCheckout.resx">
+      <DependentUpon>FrmErrorDialogueCheckout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmErrorDialogueLogin.resx">
+      <DependentUpon>FrmErrorDialogueLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmErrorDialogueOrder.resx">
+      <DependentUpon>FrmErrorDialogueOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmErrorDialoguePay.resx">
+      <DependentUpon>FrmErrorDialoguePay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHelp.resx">
+      <DependentUpon>FrmHelp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrder.resx">
+      <DependentUpon>FrmOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrint.resx">
+      <DependentUpon>FrmPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegister.resx">
+      <DependentUpon>FrmRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplash.resx">
+      <DependentUpon>FrmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSuccessDialogueLogin.resx">
+      <DependentUpon>FrmSuccessDialogueLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSuccessDialogueRegister.resx">
+      <DependentUpon>FrmSuccessDialogueRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWelcome.resx">
+      <DependentUpon>FrmWelcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeLoginMouseDownPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeLoginPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeLoginRolloverPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeSignUpMouseDownPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeSignUpPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnWelcomeSignUpRolloverPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonmousedown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonrollover3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRegisterPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRegisterRolloverPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnRegisterMouseDownPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnLoginPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnSignUpPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnSignUpPNG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnLoginPNG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnSignUpPNG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrmbtnSignUpMouseDownPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WelcomeLogInPNG.png" />
+    <None Include="Resources\WelcomeSignUpPNG.png" />
+    <None Include="Resources\MixShishRemoveBtn.png" />
+    <None Include="Resources\MixShishAddBtn.png" />
+    <None Include="Resources\MixShishRemoveBtnRollover.png" />
+    <None Include="Resources\MixShishAddBtnRollover.png" />
+    <None Include="Resources\ChickenIskenderAddBtn.png" />
+    <None Include="Resources\ChickenIskenderRemoveBtnRollover.png" />
+    <None Include="Resources\ChickenIskenderAddBtnRollover.png" />
+    <None Include="Resources\ChickenIskenderRemoveBtn.png" />
+    <None Include="Resources\LambChopsRemoveBtn.png" />
+    <None Include="Resources\LambChopsAddBtn.png" />
+    <None Include="Resources\LambChopsRemoveBtnRollover.png" />
+    <None Include="Resources\LambChopsAddBtnRollover.png" />
+    <None Include="Resources\StrawberryMocktailRemoveBtnRollover.png" />
+    <None Include="Resources\StrawberryMocktailAddBtnRollover.png" />
+    <None Include="Resources\StrawberryMocktailRemoveBtn.png" />
+    <None Include="Resources\StrawberryMocktailAddBtn.png" />
+    <None Include="Resources\TurkishTeaRemoveBtnRollover.png" />
+    <None Include="Resources\TurkishTeaAddBtnRollover.png" />
+    <None Include="Resources\TurkishTeaRemoveBtn.png" />
+    <None Include="Resources\TurkishTeaAddBtn.png" />
+    <None Include="Resources\TurkishCoffeeRemoveBtnRollover.png" />
+    <None Include="Resources\TurkishCoffeeAddBtnRollover.png" />
+    <None Include="Resources\TurkishCoffeeRemoveBtn.png" />
+    <None Include="Resources\TurkishCoffeeAddBtn.png" />
+    <None Include="Resources\ChocolateCheesecakeAddBtn.png" />
+    <None Include="Resources\ChocolateCheesecakeRemoveBtnRollover.png" />
+    <None Include="Resources\ChocolateCheesecakeAddBtnRollover.png" />
+    <None Include="Resources\ChocolateCheesecakeRemoveBtn.png" />
+    <None Include="Resources\TurkishDelightAddBtnRollover.png" />
+    <None Include="Resources\TurkishDelightRemoveBtn.png" />
+    <None Include="Resources\TurkishDelightAddBtn.png" />
+    <None Include="Resources\TurkishDelightRemoveBtnRollover.png" />
+    <None Include="Resources\StrawberryCheesecakeRemoveBtn.png" />
+    <None Include="Resources\StrawberryCheesecakeAddBtn.png" />
+    <None Include="Resources\StrawberryCheesecakeRemoveBtnRollover.png" />
+    <None Include="Resources\StrawberryCheesecakeAddBtnRollover.png" />
+    <None Include="Resources\btnExitPNG.png" />
+    <None Include="Resources\btnExitRolloverPNG.png" />
+    <None Include="Resources\btnExitMouseDownPNG.png" />
+    <None Include="Resources\btnLogOutPNG.png" />
+    <None Include="Resources\btnLogOutRolloverPNG.png" />
+    <None Include="Resources\btnLogOutMouseDownPNG.png" />
+    <None Include="Resources\btnCheckoutPNG.png" />
+    <None Include="Resources\btnCheckoutRolloverPNG.png" />
+    <None Include="Resources\btnCheckoutMouseDownPNG.png" />
+    <None Include="Resources\btnClearAllPNG.png" />
+    <None Include="Resources\btnClearAllRolloverPNG.png" />
+    <None Include="Resources\btnClearAllMouseDownPNG.png" />
+    <None Include="Resources\btn1PNG.png" />
+    <None Include="Resources\btn1RolloverPNG.png" />
+    <None Include="Resources\btn1MouseDownPNG.png" />
+    <None Include="Resources\btn30PoundPNG.png" />
+    <None Include="Resources\btn30PoundRolloverPNG.png" />
+    <None Include="Resources\btn30PoundMouseDownPNG.png" />
+    <None Include="Resources\btn2PNG.png" />
+    <None Include="Resources\btn2RolloverPNG.png" />
+    <None Include="Resources\btn2MouseDownPNG.png" />
+    <None Include="Resources\btn50PoundPNG.png" />
+    <None Include="Resources\btn50PoundRolloverPNG.png" />
+    <None Include="Resources\btn50PoundMouseDownPNG.png" />
+    <None Include="Resources\btn3PNG.png" />
+    <None Include="Resources\btn3RolloverPNG.png" />
+    <None Include="Resources\btn3MouseDownPNG.png" />
+    <None Include="Resources\btnClearRolloverPNG.png" />
+    <None Include="Resources\btnClearMouseDownPNG.png" />
+    <None Include="Resources\btn4PNG.png" />
+    <None Include="Resources\btn4RolloverPNG.png" />
+    <None Include="Resources\btn4MouseDownPNG.png" />
+    <None Include="Resources\btn5PNG.png" />
+    <None Include="Resources\btn5RolloverPNG.png" />
+    <None Include="Resources\btn5MouseDownPNG.png" />
+    <None Include="Resources\btnDotMouseDownPNG.png" />
+    <None Include="Resources\btnDotPNG.png" />
+    <None Include="Resources\btnDotRolloverPNG.png" />
+    <None Include="Resources\btn6PNG.png" />
+    <None Include="Resources\btn6RolloverPNG.png" />
+    <None Include="Resources\btn6MouseDown.png" />
+    <None Include="Resources\btnBackSpacePNG.png" />
+    <None Include="Resources\btnBackSpaceRolloverPNG.png" />
+    <None Include="Resources\btnBackSpaceMouseDownPNG.png" />
+    <None Include="Resources\btn7PNG.png" />
+    <None Include="Resources\btn7RolloverPNG.png" />
+    <None Include="Resources\btn7MouseDownPNG.png" />
+    <None Include="Resources\btnPayPNG.png" />
+    <None Include="Resources\btnPayRolloverPNG.png" />
+    <None Include="Resources\btnPayMouseDownPNG.png" />
+    <None Include="Resources\btn8PNG.png" />
+    <None Include="Resources\btn8RolloverPNG.png" />
+    <None Include="Resources\btn8MouseDownPNG.png" />
+    <None Include="Resources\btn9PNG.png" />
+    <None Include="Resources\btn9RolloverPNG.png" />
+    <None Include="Resources\btn9MouseDownPNG.png" />
+    <None Include="Resources\btn10PoundPNG.png" />
+    <None Include="Resources\btn10PoundRolloverPNG.png" />
+    <None Include="Resources\btn10PoundMouseDownPNG.png" />
+    <None Include="Resources\btnClearPNG.png" />
+    <None Include="Resources\btn0PNG.png" />
+    <None Include="Resources\btn0RolloverPNG.png" />
+    <None Include="Resources\btn0MouseDownPNG.png" />
+    <None Include="Resources\OrderFormbtnOrdersPNG.png" />
+    <None Include="Resources\btnINeedHelpPNG.png" />
+    <None Include="Resources\btnINeedHelpRolloverPNG.png" />
+    <None Include="Resources\btnINeedHelpMouseDownPNG.png" />
+    <None Include="Resources\ReceiptLogoPNG.png" />
+    <None Include="Resources\HelpFormbtnINeedHelpPNG.png" />
+    <None Include="Resources\HelpFormbtnOrdersPNG.png" />
+    <None Include="Resources\HelpFormbtnOrdersMouseDownPNG.png" />
+    <None Include="Resources\HelpFormbtnOrdersRolloverPNG.png" />
+    <None Include="Resources\MenuButtonCreamPNG.png" />
+    <None Include="Resources\SlidingPanelPNG.png" />
+    <None Include="Resources\ExitPanelPNG.png" />
+    <None Include="Resources\HelpRolloverbtnPNG.png" />
+    <None Include="Resources\HelpMouseDownbtnPNG.png" />
+    <None Include="Resources\HelpClickedbtnPNG.png" />
+    <None Include="Resources\TroubleshootingbtnPNG.png" />
+    <None Include="Resources\TroubleshootingRolloverbtnPNG.png" />
+    <None Include="Resources\TroubleshootingMouseDownbtnPNG.png" />
+    <None Include="Resources\TroubleshootingClickedbtnPNG.png" />
+    <None Include="Resources\FAQbtnPNG.png" />
+    <None Include="Resources\FAQRolloverbtnPNG.png" />
+    <None Include="Resources\FAQMouseDownbtnPNG.png" />
+    <None Include="Resources\FAQClickedbtnPNG.png" />
+    <None Include="Resources\btnHelpPNG.png" />
+    <None Include="Resources\FAQContentPNG.png" />
+    <None Include="Resources\TroubleshootingContentPNG.png" />
+    <None Include="Resources\HowDoILoginPNG.png" />
+    <None Include="Resources\HowDoILoginRolloverPNG.png" />
+    <None Include="Resources\HowDoILoginMouseDownPNG.png" />
+    <None Include="Resources\HowDoIRegisterPNG.png" />
+    <None Include="Resources\HowDoIRegisterRolloverPNG.png" />
+    <None Include="Resources\HowDoIRegisterMouseDownPNG.png" />
+    <None Include="Resources\HowDoICreateAnOrderPNG.png" />
+    <None Include="Resources\HowDoICreateAnOrderRolloverPNG.png" />
+    <None Include="Resources\HowDoICreateAnOrderMouseDownPNG.png" />
+    <None Include="Resources\HowDoIRemoveAnItemPNG.png" />
+    <None Include="Resources\HowDoIRemoveAnItemRolloverPNG.png" />
+    <None Include="Resources\HowDoIRemoveAnItemMouseDownPNG.png" />
+    <None Include="Resources\HowDoIPayForAnOrderPNG.png" />
+    <None Include="Resources\HowDoIPayForAnOrderRolloverPNG.png" />
+    <None Include="Resources\HowDoIPayForAnOrderMouseDownPNG.png" />
+    <None Include="Resources\HowDoIClearAnOrderPNG.png" />
+    <None Include="Resources\HowDoIClearAnOrderRolloverPNG.png" />
+    <None Include="Resources\HowDoIClearAnOrderMouseDownPNG.png" />
+    <None Include="Resources\HowDoIViewTheReceiptPNG.png" />
+    <None Include="Resources\HowDoIViewTheReceiptRolloverPNG.png" />
+    <None Include="Resources\HowDoIViewTheReceiptMouseDownPNG.png" />
+    <None Include="Resources\HowDoIPrintTheReceiptPNG.png" />
+    <None Include="Resources\HowDoIPrintTheReceiptRolloverPNG.png" />
+    <None Include="Resources\HowDoIPrintTheReceiptMouseDownPNG.png" />
+    <None Include="Resources\HowDoILogoutPNG.png" />
+    <None Include="Resources\HowDoILogoutRolloverPNG.png" />
+    <None Include="Resources\HowDoILogoutMouseDownPNG.png" />
+    <None Include="Resources\HowDoIExitTheApplicationPNG.png" />
+    <None Include="Resources\HowDoIExitTheApplicationRolloverPNG.png" />
+    <None Include="Resources\HowDoIExitTheApplicationMouseDownPNG.png" />
+    <None Include="Resources\HowDoICreateAnOrderContentPNG.png" />
+    <None Include="Resources\HowDoIPayForAnOrderContentPNG.png" />
+    <None Include="Resources\HowDoIClearAnOrderContentPNG.png" />
+    <None Include="Resources\HowDoIViewTheReceiptContentPNG.png" />
+    <None Include="Resources\HowDoIPrintTheReceiptContentPNG.png" />
+    <None Include="Resources\HowDoILogOutContentPNG.png" />
+    <None Include="Resources\HowDoIExitTheApplicationContentPNG.png" />
+    <None Include="Resources\HowDoILoginContentPNG.png" />
+    <None Include="Resources\SuccessDialogueBoxOKbtnPNG.png" />
+    <None Include="Resources\SuccessDialogueBoxOKbtnRolloverPNG.png" />
+    <None Include="Resources\SuccessDialogueBoxOKbtnMouseDownPNG.png" />
+    <None Include="Resources\ErrorDialogueOKbtnPNG.png" />
+    <None Include="Resources\ErrorDialogueOKbtnRolloverPNG.png" />
+    <None Include="Resources\ErrorDialogueOKbtnMouseDownPNG.png" />
+    <None Include="Resources\AlertDialogueOKbtnPNG.png" />
+    <None Include="Resources\AlertDialogueOKbtnRolloverPNG.png" />
+    <None Include="Resources\AlertDialogueOKbtnMouseDownPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnNoPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnNoRolloverPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnNoMouseDownPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnYesPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnYesRolloverPNG.png" />
+    <None Include="Resources\ConfirmLogOutbtnYesMouseDownPNG.png" />
+    <None Include="Resources\HowDoIRemoveAnItemContentPNG.png" />
+    <None Include="Resources\HowDoIRegisterContentPNG.png" />
+    <Content Include="SultanIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
